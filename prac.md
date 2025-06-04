@@ -1,2 +1,2 @@
-hello rey
+Hello rey
 welcome to our humble aboad
