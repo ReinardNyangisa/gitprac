@@ -2,3 +2,5 @@ get the user data.....
 only verified users are alowed to this area
 please verify to continue
 follow for more instructions
+
+create an avatar for user
